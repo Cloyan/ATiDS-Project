@@ -25,3 +25,17 @@ Then go to the directory of the notebook and run with the following
 runipy Code.ipynb  
 <br />
 **Results:**
+The following are the test accuracies for all the models ranked from worst to best:  
+AlexNet with dropout and batch normalization: 0.692  
+GoogLeNet with untrainable ImageNet weights: 0.734  
+GoogLeNet: 0.746  
+AlexNet with batch normalization: 0.767  
+LeNet-5 skeleton: 0.767  
+AlexNet with dropout: 0.768  
+LeNet-5 with batch normalization: 0.771  
+LeNet-5 with dropout: 0.771  
+LeNet-5 with dropout and batch normalization: 0.771  
+GoogLeNet with trainable ImageNet weights: 0.776  
+AlexNet skeleton: 0.781  
+ResNet-50 with ImageNet weights and fine-tuning: 0.788  
+ResNet-50: 0.861  
