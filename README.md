@@ -40,4 +40,4 @@ GoogLeNet with trainable ImageNet weights: 0.776
 AlexNet skeleton: 0.781  
 ResNet-50 with ImageNet weights and fine-tuning: 0.788  
 ResNet-50: 0.861  
-The models aside from ResNet-50 seem to have comparable performances.
+The models aside from ResNet-50 seem to have comparable performances. Dropout and batch normalization layers are not always beneficial when it comes to maximizing test accuracy. The same can be said for weight transferring.
