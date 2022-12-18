@@ -14,9 +14,14 @@ This repository contains the following: this README file and an ipynb file conta
 - Model Evaluation
   - Base Models
   - Experimental Models
+
 **Executing the code:**
 To run the notebook in commandline, first install "runipy" with  
+<br />
 pip install runipy  
+<br />
 Then go to the directory of the notebook and run with the following  
-runipy Code.ipynb
+<br />
+runipy Code.ipynb  
+<br />
 **Results:**
